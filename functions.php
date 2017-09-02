@@ -6,7 +6,7 @@ GitHub Plugin URI: https://github.com/nwcybersolutions/remove-empty-line/
 Description: Removes "/& n b s p ;/" when using the Visual Editor
 Author: Northwest Cyber Solutions
 Author URI: https://nwcybersolutions.com
-Version: 1.0.0
+Version: 1.0.1
 License: MIT
 License URI: https://opensource.org/licenses/MIT
 Text Domain: Remove Empty Lines
